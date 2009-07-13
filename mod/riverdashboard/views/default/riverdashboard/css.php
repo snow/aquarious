@@ -12,6 +12,9 @@
 
 ?>
 /* START SnowMod */
+.river_item .item_body p {
+	line-height: 18px;
+}
 .river_item .blog_post {
 	margin-top:5px;
 	padding:5px;
