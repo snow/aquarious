@@ -15,9 +15,10 @@
 	 */
 	 
 ?>
-.gallery-small {
+.gallery-small .name{
+	display: block;
 	width: 40px;
-	height: 56px;
+	height: 16px;
 	overflow: hidden;
 	font-size: 12px;
 }

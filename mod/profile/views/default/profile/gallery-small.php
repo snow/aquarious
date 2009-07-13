@@ -40,9 +40,9 @@
 			
 		
 		if (!$banned)
-			$info .= "<span><b><a href=\"" . $vars['entity']->getUrl() . "\" rel=\"$rel\">" . $name . "</a></b></span>";
+			$info .= "<span class=\"name\"><b><a href=\"" . $vars['entity']->getUrl() . "\" rel=\"$rel\">" . $name . "</a></b></span>";
 		else
-			$info .= "<span><b><strike>" . $name . "</b></strike><br />".elgg_echo('profile:banned')."</span>";
+			$info .= "<span class=\"name\"><b><strike>" . $name . "</b></strike><br />".elgg_echo('profile:banned')."</span>";
 		
 		// echo elgg_view_listing($icon, $info);
 		echo '<div class="gallery-small">'.$icon.$info.'</div>';
