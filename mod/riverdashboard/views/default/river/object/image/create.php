@@ -10,7 +10,7 @@
 	$url = $vars['url'];	
 	$mime = $object->mimetype;	
 	
-	$summary .= elgg_echo("image:river:created");
+	$summary .= '<a href="'.$performed_by->getURL().'">'.$performed_by->name.'</a>'.elgg_echo("image:river:created");
 	
 	$goto_full = "<a href=\"{$object->getURL()}\" target=\"_blank\" class=\"goto_full\" id=\"image_toggle-{$object->guid}\">".elgg_echo('river:image:goto_full')."</a>";
 	

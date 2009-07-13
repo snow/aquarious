@@ -4,6 +4,7 @@
 		/*
 		 * MOD START by Snow
 		 */
+		'riverpost:river:posted' => 'says:',
 		'riverdashboard:show_more_comments' => 'Show %s more comments',
 		'river:post:toolong' => 'Your post reached length limit',
 		'generic_comment:empty' => 'Please input comment content',

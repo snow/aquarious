@@ -29,7 +29,6 @@
 	<?php echo $body; ?>
 </div>
 <div class="item_info">
-	<a href="<?php echo $performed_by->getURL(); ?>"><?php echo $performed_by->name; ?></a>
 	<?php echo friendly_time($time);
 
 	if ($show_comment) {

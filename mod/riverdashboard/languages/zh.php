@@ -4,6 +4,7 @@
 		/*
 		 * MOD START by Snow
 		 */
+		'riverpost:river:posted' => '说:',
 		'river:post:toolong' => '您的帖子超过了长度上限',
 		'generic_comment:empty' => '请输入回复内容',
 		'river:doing' => "想说两句？想分享照片或者视频？写下来让大家都看到吧",

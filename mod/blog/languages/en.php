@@ -49,7 +49,7 @@
 	        'blog:river:posted' => "%s posted",
 	        
 	        //these get inserted into the river links to take the user to the entity
-	        'blog:river:create' => "a new blog post titled",
+	        'blog:river:create' => "posted",
 	        'blog:river:update' => "a blog post titled",
 	        'blog:river:annotate' => "a comment on this blog post",
 			
