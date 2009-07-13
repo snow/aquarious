@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+	<field key="author" value="snow@firebloom.cc" />
+	<field key="version" value="0.1" />
+	<field key="description" value="Snow.Hellsing's function lib" />
+	<field key="website" value="http://firebloom.cc" />
+	<field key="licence" value="GNU Public License version 2" />
+	<field key="copyright" value="(C) FireBloom" />
+	<field key="elgg_version" value="2009030702">
+</field>
+</plugin_manifest>

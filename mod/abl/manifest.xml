@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+	<field key="author" value="Snow.Hellsing" />
+	<field key="version" value="0.1" />
+	<field key="description" value="Aquarius' special business logic" />
+	<field key="website" value="http://firebloom.cc" />
+	<field key="copyright" value="(C) 2009 FireBloom " />
+	<field key="elgg_version" value="2009030702" />
+</plugin_manifest>
